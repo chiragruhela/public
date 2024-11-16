@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>
+			<![CDATA[System Note(s)]]>
+		</title>
+		<description>
+			<![CDATA[This is a constant feed for system notes]]>
+		</description>
+		<link>https://books.dwf.dev/docs/system-design/</link>
+		<lastBuildDate>Sat, 16 Nov 2024 09:21:23 GMT</lastBuildDate>
+		<pubDate>Sat, 16 Nov 2024 09:21:00 GMT</pubDate>
+		<copyright>
+		</copyright>
+		<ttl>1</ttl>
+		<item>
+			<title>
+				<![CDATA[Foreword]]>
+			</title>
+			<description>
+				<![CDATA[Foreword]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c0</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c0</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:21:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Join the Community]]>
+			</title>
+			<description>
+				<![CDATA[Join the Community]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c1</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c1</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:20:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Scale from Zero to Millions of Users]]>
+			</title>
+			<description>
+				<![CDATA[Scale from Zero to Millions of Users]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c2</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c2</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:19:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Back-of-the-envelope Estimation]]>
+			</title>
+			<description>
+				<![CDATA[Back-of-the-envelope Estimation]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c3</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c3</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:18:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[A Framework for System Interviews]]>
+			</title>
+			<description>
+				<![CDATA[A Framework for System Interviews]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c4</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c4</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:17:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Rate Limiter]]>
+			</title>
+			<description>
+				<![CDATA[Rate Limiter]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c5</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c5</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:16:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Consistent Hashing]]>
+			</title>
+			<description>
+				<![CDATA[Consistent Hashing]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c6</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c6</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:15:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Key-value Store]]>
+			</title>
+			<description>
+				<![CDATA[Key-value Store]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c7</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c7</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:14:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Unique ID Generator in Distributed Systems]]>
+			</title>
+			<description>
+				<![CDATA[Unique ID Generator in Distributed Systems]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c8</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c8</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:13:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[URL Shortener]]>
+			</title>
+			<description>
+				<![CDATA[URL Shortener]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c9</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c9</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:12:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Web Crawler]]>
+			</title>
+			<description>
+				<![CDATA[Web Crawler]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c10</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c10</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:11:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Notification System]]>
+			</title>
+			<description>
+				<![CDATA[Notification System]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c11</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c11</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:10:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[News Feed System]]>
+			</title>
+			<description>
+				<![CDATA[News Feed System]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c12</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c12</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:09:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Chat System]]>
+			</title>
+			<description>
+				<![CDATA[Chat System]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c13</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c13</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:08:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Search Autocomplete System]]>
+			</title>
+			<description>
+				<![CDATA[Search Autocomplete System]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c14</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c14</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:07:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[YouTube]]>
+			</title>
+			<description>
+				<![CDATA[YouTube]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c15</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c15</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:06:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Google Drive]]>
+			</title>
+			<description>
+				<![CDATA[Google Drive]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c16</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c16</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:05:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Proximity Service]]>
+			</title>
+			<description>
+				<![CDATA[Proximity Service]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c17</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c17</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:04:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Nearby Friends]]>
+			</title>
+			<description>
+				<![CDATA[Nearby Friends]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c18</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c18</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:03:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Google Maps]]>
+			</title>
+			<description>
+				<![CDATA[Google Maps]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c19</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c19</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:02:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Distributed Message Queue]]>
+			</title>
+			<description>
+				<![CDATA[Distributed Message Queue]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c20</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c20</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 09:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Metrics Monitoring and Altering System]]>
+			</title>
+			<description>
+				<![CDATA[Metrics Monitoring and Altering System]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c21</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c21</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:59:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Ad Click Event Aggregation]]>
+			</title>
+			<description>
+				<![CDATA[Ad Click Event Aggregation]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c22</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c22</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:58:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Hotel Reservation System]]>
+			</title>
+			<description>
+				<![CDATA[Hotel Reservation System]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c23</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c23</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:57:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Distributed Email Service]]>
+			</title>
+			<description>
+				<![CDATA[Distributed Email Service]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c24</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c24</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:56:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[S3-like Object Storage]]>
+			</title>
+			<description>
+				<![CDATA[S3-like Object Storage]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c25</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c25</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:55:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Real-time Gaming Leaderboard]]>
+			</title>
+			<description>
+				<![CDATA[Real-time Gaming Leaderboard]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c26</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c26</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:54:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Payment System]]>
+			</title>
+			<description>
+				<![CDATA[Payment System]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c27</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c27</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:53:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Digital Wallet]]>
+			</title>
+			<description>
+				<![CDATA[Digital Wallet]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c28</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c28</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:52:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Stock Exchange]]>
+			</title>
+			<description>
+				<![CDATA[Stock Exchange]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c29</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c29</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:51:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[The Learning Continues]]>
+			</title>
+			<description>
+				<![CDATA[The Learning Continues]]>
+			</description>
+			<link>https://books.dwf.dev/docs/system-design/c30</link>
+			<guid isPermaLink="true">https://books.dwf.dev/docs/system-design/c30</guid>
+			<dc:creator>
+				<![CDATA[John Smith]]>
+			</dc:creator>
+			<pubDate>Sat, 16 Nov 2024 08:50:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
